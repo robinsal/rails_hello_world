@@ -13,10 +13,8 @@ the application using Heroku.
 
 ## See the Result
 Heroku is a cloud platform service allowing users to host Rails applications (among other things).
-Here is my completed Hello World application:
+Here is my completed Hello World application (warning: this app may blow your mind):
 
-    (warning: this app may blow your mind)
-    
     https://blooming-reef-07475.herokuapp.com/
 
 ## Credits
