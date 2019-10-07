@@ -1,7 +1,9 @@
 # Hello World Rails App
 
 A roundabout way to host an HTML file with the string "hello, world!"
+
 Ruby 2.6.3
+
 Rails 5.2.3
 
 ## Purpose
@@ -12,6 +14,7 @@ the application using Heroku.
 ## See the Result
 Heroku is a cloud platform service allowing users to host Rails applications (among other things).
 Here is my completed Hello World application:
+    (warning: this app may blow your mind)
     https://blooming-reef-07475.herokuapp.com/
 
 ## Credits
