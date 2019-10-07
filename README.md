@@ -15,7 +15,7 @@ the application using Heroku.
 Heroku is a cloud platform service allowing users to host Rails applications (among other things).
 Here is my completed Hello World application (warning: this app may blow your mind):
 
-    https://blooming-reef-07475.herokuapp.com/
+https://blooming-reef-07475.herokuapp.com/
 
 ## Credits
 This was done with the tutorial by Michael Hartl called Ruby on Rails Tutorial. This was chapter 1, and you
